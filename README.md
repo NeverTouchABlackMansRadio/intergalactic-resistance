@@ -315,3 +315,4 @@ MIT - Feel free to modify and use!
 ---
 
 **Ready to play?** Follow the setup instructions and enjoy Intergalactic Resistance! 🚀
+"# Game Ready" 
